@@ -1,0 +1,2 @@
+# Generated with uv pip freeze
+tabulate==0.10.0
